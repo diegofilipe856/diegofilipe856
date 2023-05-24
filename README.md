@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- My name is Diego and I'm a Chemical Engineering student. Also, I study fullstack web programming, with focus on HTML, CSS, JavaScript, Python and Java.
+- My name is Diego and I'm a Chemical Engineering student :construction_worker:. Also, I study fullstack web programming, with focus on HTML, CSS, JavaScript, Python and Java.
 - I love Chemical Engineering and programming, due to that I'm in a research with Laboratório de Computação Científica e Visualização (LCCV) developing programs focused on engineering!
 - My passion for these both areas motivates me to do personal projects engeneering-oriented too! But not only that, I enjoy programming applications that are actually functional in my life and in the others.
 
