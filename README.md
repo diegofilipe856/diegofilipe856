@@ -7,7 +7,7 @@
 
 - In addition to my professional/academic pursuits:
 - I love music, playing rock with my eletric guitar is one of my favourites hobbies. 
-- I like to practice sports, and I'm interested in a wide range of it. 
+- I like to practice sports, and I'm interested in a wide range of them. 
 - I enjoy playing and watching Formula One, and my favorite driver is Pierre Gasly, (and RedBull as a team).
 
 
